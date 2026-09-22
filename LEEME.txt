@@ -1,10 +1,6 @@
-MI SALUD v2 — iPhone/PWA
+Mi Salud V4.5 — versión pública para GitHub Pages.
 
-- Inicio rediseñado para iPhone.
-- Los cuadros de Inicio muestran el último resultado y resultados anteriores.
-- Tocar un cuadro abre el mismo histórico detallado que en Analíticas.
-- Analíticas 2018–2026 y mediciones manuales locales.
-- Para instalar en iPhone: abrir index.html desde un servidor/web, Safari > Compartir > Añadir a pantalla de inicio.
+Incluye fichas interpretativas específicas para todos los parámetros presentes en el Excel maestro, con valoración dinámica de los datos privados guardados localmente.
+No contiene analíticas ni datos personales.
 
-
-V4.3: tipografía ampliada, ajuste de fecha en Mediciones y copyright Cem 2026.
+Subir estos cuatro archivos a la raíz del repositorio: index.html, manifest.webmanifest, sw.js y LEEME.txt.
