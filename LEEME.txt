@@ -5,3 +5,6 @@ MI SALUD v2 — iPhone/PWA
 - Tocar un cuadro abre el mismo histórico detallado que en Analíticas.
 - Analíticas 2018–2026 y mediciones manuales locales.
 - Para instalar en iPhone: abrir index.html desde un servidor/web, Safari > Compartir > Añadir a pantalla de inicio.
+
+
+V4.2: tipografía ampliada, ajuste de fecha en Mediciones y copyright Cem 2026.
