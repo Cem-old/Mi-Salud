@@ -7,4 +7,4 @@ MI SALUD v2 — iPhone/PWA
 - Para instalar en iPhone: abrir index.html desde un servidor/web, Safari > Compartir > Añadir a pantalla de inicio.
 
 
-V4.2: tipografía ampliada, ajuste de fecha en Mediciones y copyright Cem 2026.
+V4.3: tipografía ampliada, ajuste de fecha en Mediciones y copyright Cem 2026.
