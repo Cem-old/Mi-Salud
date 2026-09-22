@@ -1,6 +1,12 @@
-Mi Salud V4.5 — versión pública para GitHub Pages.
+Mi Salud V4.6 — versión pública para GitHub Pages.
 
-Incluye fichas interpretativas específicas para todos los parámetros presentes en el Excel maestro, con valoración dinámica de los datos privados guardados localmente.
+CORRECCIÓN V4.6:
+- Corregido el bloqueo total de JavaScript de V4.5 causado por la doble declaración de PARAM_INFO.
+- La aplicación funciona y permite navegar aunque todavía no haya datos importados.
+- Los datos privados se siguen guardando únicamente en el dispositivo.
+- Pie visible: © Cem 2026 · v4.6.
+- Caché PWA actualizada a mi-salud-v4-6 para forzar la renovación.
+
 No contiene analíticas ni datos personales.
 
 Subir estos cuatro archivos a la raíz del repositorio: index.html, manifest.webmanifest, sw.js y LEEME.txt.
