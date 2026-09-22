@@ -1,0 +1,9 @@
+MI SALUD V4 — aplicación separada de los datos privados
+
+PARA GITHUB: sube SOLO el contenido de esta carpeta Mi_Salud_v4 (index.html, manifest.webmanifest, sw.js y este LEEME).
+
+NO SUBAS: Mi_Salud_DATOS_PRIVADOS.json. Ese archivo contiene tus analíticas y perfil.
+
+En el iPhone: abre la app publicada > Perfil > Importar datos privados y selecciona el JSON privado. Los datos quedan guardados localmente en ese dispositivo.
+
+Usa “Exportar copia privada” para hacer copias de seguridad de analíticas, mediciones y configuración de widgets.
